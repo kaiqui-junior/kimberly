@@ -17,7 +17,9 @@ body{
 }
 
 .love{
-    position:absolute;
+    position:relative;
+    width:700px;
+    height:700px;
 
     will-change:transform;
 
